@@ -1,7 +1,7 @@
 Surface hopping codes for the Holstein model.
 First version. Cleanup, and more documentation upcoming.
 
-Please feel free to ask questions at ambjain@sas.upenn.edu
+Please feel free to ask questions at amberj@chem.iitb.ac.in
 
 ****
 Requires lapack subroutien dsyevr to diagonalize
